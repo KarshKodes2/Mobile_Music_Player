@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Native Music Player",
+    "name": "music_player_app",
     "slug": "music_player_app",
     "version": "1.0.0",
     "orientation": "portrait",
