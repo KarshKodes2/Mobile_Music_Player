@@ -46,7 +46,7 @@ const MainLayout = (props) => {
 						{
 							display: "flex",
 							padding: 10,
-							height: 70,
+							height: 100,
 						},
 						null,
 					],
